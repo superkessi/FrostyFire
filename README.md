@@ -1,4 +1,4 @@
-<img width="2880" height="1620" alt="Pasted image 20260304125757" src="https://github.com/user-attachments/assets/a81d38e7-f43f-4fc9-a6d5-43889bd9d7c4" />
+<img width="1200" height="400" alt="Pasted image 20260304125757" src="https://github.com/user-attachments/assets/a81d38e7-f43f-4fc9-a6d5-43889bd9d7c4" />
 
 
 <p align="center">
