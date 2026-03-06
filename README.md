@@ -15,7 +15,6 @@
 
 </div>
 
-
 Frosty Fire was developed as a **10 week** long, student project at [School4Games](https://www.school4games.net) in late 2025 / 2026. 
 
 **Engine     :** Unreal 5.6.1
@@ -26,8 +25,11 @@ Frosty Fire was developed as a **10 week** long, student project at [School4Game
 
 Play it [here](https://s4g.itch.io/frosty-fire)
 
+&nbsp;
+<div align="center">
+₊˚｡⋆❆⋆｡˚₊˚｡⋆❆⋆｡˚₊˚｡⋆❆⋆｡˚₊
+</div>
 
----
 ## My Responsibilities
 I was one of [two](https://github.com/Artur-92) engineers working on Frosty Fire. I was primarily responsible for gameplay related systems, like the gameplay mechanics and the in game UI, as well as keeping an eye on the architecture and ensure we make use of the unreal architecture.
 
